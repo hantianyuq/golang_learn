@@ -1,0 +1,4 @@
+mode: set
+golang-learn/base/test/split.go:13.45,15.13 2 1
+golang-learn/base/test/split.go:20.2,21.8 2 1
+golang-learn/base/test/split.go:15.13,19.3 3 1
